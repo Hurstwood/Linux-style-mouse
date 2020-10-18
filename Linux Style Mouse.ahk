@@ -1,21 +1,9 @@
 
-; Variables
-; --------
-;MouseStartX
-;MouseStartY
-;MouseWin
-;WinState
-;WinNewX 
-;WinNewY
-;LButtonState
-;EscapeState
-;MouseNewX
-;MouseNewY
 
 
 SetTitleMatchMode 2
 #SingleInstance ignore
-; #NoTrayIcon
+#NoTrayIcon
 
 
 
